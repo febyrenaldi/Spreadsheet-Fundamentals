@@ -1,0 +1,1 @@
+Create and format a column chart to showcase data and learn a few smart tricks along the way. Look at using named ranges to refer to cells in your worksheet, making them user-friendly and easy to work with.
